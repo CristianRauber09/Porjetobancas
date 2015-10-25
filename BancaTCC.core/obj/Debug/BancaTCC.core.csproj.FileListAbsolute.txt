@@ -1,0 +1,8 @@
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.core\bin\Debug\BancaTCC.core.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.core\bin\Debug\BancaTCC.core.pdb
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.core\obj\Debug\BancaTCC.core.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.core\obj\Debug\BancaTCC.core.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.core\obj\Debug\BancaTCC.core.pdb
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.core\bin\Debug\PeixeiraConnection.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.core\bin\Debug\MySql.Data.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.core\bin\Debug\PeixeiraConnection.pdb

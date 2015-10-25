@@ -118,14 +118,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Aluno.cs" />
-    <Compile Include="Models\AlunoRepositorio.cs" />
-    <Compile Include="Models\Disciplina.cs" />
-    <Compile Include="Models\DisciplinaRepositorio.cs" />
-    <Compile Include="Models\Professor.cs" />
-    <Compile Include="Models\ProfessorRepositorio.cs" />
-    <Compile Include="Models\Semestre.cs" />
-    <Compile Include="Models\SemestreRepositorio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +131,13 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\Professor\Index.cshtml" />
+    <Content Include="Views\Aluno\Aluno.cshtml" />
+    <Content Include="Views\Aluno\CreateAluno.cshtml" />
+    <Content Include="Views\Aluno\UpdateAluno.cshtml" />
+    <Content Include="Views\Home\HOME.cshtml" />
+    <Content Include="Views\Disciplina\CreateDisciplina.cshtml" />
+    <Content Include="Views\Disciplina\UpdateDisciplina.cshtml" />
+    <Content Include="Views\Disciplina\Disciplina.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -148,14 +147,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Aluno\" />
-    <Folder Include="Views\Disciplina\" />
-    <Folder Include="Views\Home\" />
+    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\PeixeiraConnection\PeixeiraConnection\PeixeiraConnection.csproj">
-      <Project>{8c2eb150-885a-42cc-95c3-5ec78845b754}</Project>
-      <Name>PeixeiraConnection</Name>
+    <ProjectReference Include="..\BancaTCC.core\BancaTCC.core.csproj">
+      <Project>{bf2d877b-1855-4804-ba9e-3ef58b20b466}</Project>
+      <Name>BancaTCC.core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BancaTCC.repository\BancaTCC.repository.csproj">
+      <Project>{abbe2bf6-d8a8-4d1a-bbc8-c2984f48d841}</Project>
+      <Name>BancaTCC.repository</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

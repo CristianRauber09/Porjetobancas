@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaProjeto", "ProjetoBanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeixeiraConnection", "..\PeixeiraConnection\PeixeiraConnection\PeixeiraConnection.csproj", "{8C2EB150-885A-42CC-95C3-5EC78845B754}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaTCC.core", "BancaTCC.core\BancaTCC.core.csproj", "{BF2D877B-1855-4804-BA9E-3EF58B20B466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaTCC.repository", "BancaTCC.repository\BancaTCC.repository.csproj", "{ABBE2BF6-D8A8-4D1A-BBC8-C2984F48D841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8C2EB150-885A-42CC-95C3-5EC78845B754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C2EB150-885A-42CC-95C3-5EC78845B754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C2EB150-885A-42CC-95C3-5EC78845B754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2D877B-1855-4804-BA9E-3EF58B20B466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2D877B-1855-4804-BA9E-3EF58B20B466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2D877B-1855-4804-BA9E-3EF58B20B466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2D877B-1855-4804-BA9E-3EF58B20B466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBE2BF6-D8A8-4D1A-BBC8-C2984F48D841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBE2BF6-D8A8-4D1A-BBC8-C2984F48D841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBE2BF6-D8A8-4D1A-BBC8-C2984F48D841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBE2BF6-D8A8-4D1A-BBC8-C2984F48D841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

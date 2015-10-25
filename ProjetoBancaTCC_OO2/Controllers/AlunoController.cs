@@ -1,11 +1,12 @@
-﻿using ProjetoBancaTCC_OO2.Models;
+﻿using BancaTCC.core;
+using BancaTCC.repository.Repositorys;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ProjetoBancaTCC_OO2.Controllers
+namespace BancaTCC.repository
 {
     public class AlunoController : Controller
     {

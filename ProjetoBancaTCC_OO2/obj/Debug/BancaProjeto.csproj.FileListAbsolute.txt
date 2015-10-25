@@ -34,3 +34,7 @@ C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\ProjetoBancaTCC_OO2\bin\System.Web
 C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\ProjetoBancaTCC_OO2\obj\Debug\BancaProjeto.csprojResolveAssemblyReference.cache
 C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\ProjetoBancaTCC_OO2\obj\Debug\ProjetoBancaTCC_OO2.dll
 C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\ProjetoBancaTCC_OO2\obj\Debug\ProjetoBancaTCC_OO2.pdb
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\ProjetoBancaTCC_OO2\bin\BancaTCC.core.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\ProjetoBancaTCC_OO2\bin\BancaTCC.repository.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\ProjetoBancaTCC_OO2\bin\BancaTCC.core.pdb
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\ProjetoBancaTCC_OO2\bin\BancaTCC.repository.pdb

@@ -1,0 +1,10 @@
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\obj\Debug\BancaTCC.repository.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\bin\Debug\BancaTCC.repository.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\bin\Debug\BancaTCC.repository.pdb
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\bin\Debug\BancaTCC.core.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\bin\Debug\MySql.Data.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\bin\Debug\PeixeiraConnection.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\bin\Debug\PeixeiraConnection.pdb
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\bin\Debug\BancaTCC.core.pdb
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\obj\Debug\BancaTCC.repository.dll
+C:\Users\Cristian\Desktop\ProjetoBancaTCC_OO2\BancaTCC.repository\obj\Debug\BancaTCC.repository.pdb

@@ -1,4 +1,5 @@
-﻿using ProjetoBancaTCC_OO2.Models;
+﻿using BancaTCC.core;
+using BancaTCC.repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
